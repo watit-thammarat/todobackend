@@ -11,3 +11,9 @@ __pycache__
 
 # Miscellaneous
 .DS_Store
+
+#IDE
+.vscode
+
+#Virtual Environment
+env
